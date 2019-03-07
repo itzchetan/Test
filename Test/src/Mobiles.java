@@ -7,8 +7,8 @@ public class Mobiles {
 		
 		iphone.defaultMobile();
 
-		Mobile apple = new Mobile(7, 50000, 4);
-		Mobile apple2 = new Mobile(apple);
+		//Mobile apple = new Mobile(7, 50000, 4);
+		//Mobile apple2 = new Mobile(apple);
 
 		// apple.displayMobile();
 
